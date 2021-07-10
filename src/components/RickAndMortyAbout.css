@@ -1,0 +1,21 @@
+.about-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 2rem;
+}
+
+.about-container img {
+    width: 6rem;
+    height: auto;
+}
+
+.about-container h3 {
+    padding: 1em;
+    text-align: center;
+}
+
+.about-container a {
+    text-decoration: none;
+}

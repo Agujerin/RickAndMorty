@@ -1,0 +1,18 @@
+.header {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.header-logo {
+    width: 18rem;
+    height: auto;
+}
+
+.header-title {
+    padding: .6em;
+    margin: 0;
+    color: #61dafb;
+    text-align: center;
+}
